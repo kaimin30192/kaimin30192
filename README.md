@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Kelvin
 
+🔭 I’m currently working on PST 
+🌱 I’m currently learning Flutter and ComfyUI
+📫 How to reach me: kaimin30192@gmail.com
 <!--
 **kaimin30192/kaimin30192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
